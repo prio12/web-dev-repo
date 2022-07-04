@@ -5,6 +5,6 @@ body {
     height: 500px;
     width: 300px;
 }
-.half-width {
-    display: flex;
+.section-width {
+    width: 50%;
 }
